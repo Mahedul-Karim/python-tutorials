@@ -1,4 +1,4 @@
-### conditions
+### if-else conditions
 
 height = 121
 
@@ -17,3 +17,14 @@ if is_even_number:
 else:
     print(f"{number} is an odd number")
 
+
+### logical operators(and, or, not)
+
+print(True and True) #True
+print(True and False) #False
+
+print(True or False) #True
+print(True or True) #True
+
+print(not True) #False
+print(not False) #True
