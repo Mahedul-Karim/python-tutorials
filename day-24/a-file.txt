@@ -1,0 +1,2 @@
+This is just a regular file
+ This new line was created by the file.write() method
